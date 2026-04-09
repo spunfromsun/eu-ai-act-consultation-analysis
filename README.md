@@ -184,6 +184,18 @@ This project was built using the [haveyoursay-analysis](https://github.com/spunf
 
 This project is for research and educational purposes. The consultation data is publicly available from the European Commission's Better Regulation portal.
 
+## RAG System for Document Q&A
+
+This repository focuses on quantitative analysis and topic modeling of consultation survey responses. For **querying the actual PDF submissions** using natural language, see the companion project:
+
+**[EU AI Act RAG System](https://github.com/spunfromsun/eu-ai-act-rag)** - An n8n-based Retrieval-Augmented Generation system that enables conversational queries over consultation documents using:
+- Pinecone vector database with OpenAI embeddings
+- Claude 3.7 Sonnet for response generation
+- NextCloud document storage integration
+- Academic citation enforcement with source/page references
+
+The RAG system complements this statistical analysis by providing direct access to stakeholder arguments and evidence from the original PDF submissions.
+
 ## Future Work
 
 - **Phase 2 Analysis**: Extend analysis to later consultation phases
