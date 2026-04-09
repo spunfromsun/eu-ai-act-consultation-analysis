@@ -178,7 +178,7 @@ This analysis uses data from the European Commission's "Have Your Say" platform:
 
 ## Acknowledgments
 
-This project was built using the [haveyoursay-analysis](https://github.com/spunfromsun/haveyoursay-analysis) toolkit for data collection. The toolkit provides a modern, lightweight approach to fetching EU consultation data with CLI commands and Docker support.
+This project was built using the [haveyoursay-analysis](https://github.com/spunfromsun/haveyoursay-analysis) toolkit for data collection. The toolkit provides a modern, lightweight approach to fetching EU consultation data with CLI commands and Docker support. This project was done in consultation and to support Gwendolin Barnard, PhD student at the University of Graz. 
 
 ## License
 
